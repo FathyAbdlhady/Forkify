@@ -10,9 +10,7 @@ Forkify a SPA (single page application) that allows the user to find, bookmark a
 - JavaScript
 - HTML
 - CSS
-- Webpack
-- Babel
-- Forkify API
+
 ## 🚀DEMO
 What are you waiting for? Get in and start cooking your next delicious meal with [Forkify](https://forkify-fathy-a.netlify.app/)
 ## 👀Preview
